@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning PHP.
 - 📫 How to reach me: wicramachine@gmail.com
 - ⚡ Fun fact: I measure 170vh.
-
+- [Portfolios](https://wicramachine.netlify.app) : 
 #
 
 ### Languages and Tools:
