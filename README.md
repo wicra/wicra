@@ -4,7 +4,7 @@
 
 **Wicra** ✨ display: 'smiling'; ✨
 
-- 🔭 I’m currently working on a web project with [Alex](https://github.com/alleyne234).
+- 🔭 I’m currently working on a web project with [Alex](https://github.com/alexwauquier).
 - 🌱 I’m currently learning PHP.
 - 📫 How to reach me: wicramachine@gmail.com
 - ⚡ Fun fact: I measure 170vh.
