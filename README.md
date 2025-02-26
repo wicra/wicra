@@ -10,7 +10,7 @@ Vous pouvez en apprendre davantage sur mon parcours et mes projets en consultant
   </a>
   &nbsp;&nbsp;
   <a href="https://wicramachine.netlify.app" target="_blank">
-    <img src="https://www.flaticon.com/fr/icone-gratuite/lien_282100" width="30" alt="Portfolio" />
+    <img src="https://cdn-icons-png.flaticon.com/512/6570/6570794.png" width="30" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:wicramachine@gmail.com" target="_blank">
