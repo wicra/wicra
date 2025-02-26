@@ -7,9 +7,19 @@
 Je m'appelle **Wicramachine**, mais on m'appelle surtout **Wicra**. Passionné par le développement, je suis actuellement étudiant en deuxième année de BTS CIEL IR, un cursus qui nourrit mon engouement pour le code et l'innovation technologique. Toujours avide de nouveaux défis, je me prépare à intégrer une troisième année de Bachelor en Développement Fullstack & DevOps en alternance. Dans cette perspective, je suis activement à la recherche d'une entreprise prête à m'offrir l'opportunité de débuter ma vie professionnelle et de mettre en pratique mes compétences.
 
 Vous pouvez en apprendre davantage sur mon parcours et mes projets en consultant mes réseaux professionnels :
-- [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/wicramachine/)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visiter-blue)](https://wicramachine.netlify.app)
-- [![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg)](mailto:wicramachine@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/wicramachine/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wicramachine.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visiter-blue" width="30" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:wicramachine@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" width="30" alt="Gmail" />
+  </a>
+</p>
 
 
 N'hésitez pas à explorer la section dédiée à mes projets pour découvrir mes réalisations détaillées en markdown. Bon visionnage !
@@ -45,6 +55,6 @@ N'hésitez pas à explorer la section dédiée à mes projets pour découvrir me
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wicra&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wicra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wicra&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=calm&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wicra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=calm&hide_border=false" height="150" alt="languages graph"  />
 </div>
