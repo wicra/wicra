@@ -7,17 +7,18 @@
 Je m'appelle **Wicramachine**, mais on m'appelle surtout **Wicra**. Passionné par le développement, je suis actuellement étudiant en deuxième année de BTS CIEL IR, un cursus qui nourrit mon engouement pour le code et l'innovation technologique. Toujours avide de nouveaux défis, je me prépare à intégrer une troisième année de Bachelor en Développement Fullstack & DevOps en alternance. Dans cette perspective, je suis activement à la recherche d'une entreprise prête à m'offrir l'opportunité de débuter ma vie professionnelle et de mettre en pratique mes compétences.
 
 Vous pouvez en apprendre davantage sur mon parcours et mes projets en consultant mes réseaux professionnels :
-<p align="center">
+
+<p align="left">
   <a href="https://www.linkedin.com/in/wicramachine/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wicramachine.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visiter-blue" width="30" alt="Portfolio" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="30" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:wicramachine@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" width="30" alt="Gmail" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" alt="Gmail" />
   </a>
 </p>
 
@@ -45,7 +46,6 @@ N'hésitez pas à explorer la section dédiée à mes projets pour découvrir me
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="logo Flutter" /> <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="logo Apache" /> <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="logo Debian" /> <img width="12" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Proxmox_Logo.svg" height="40" alt="logo Proxmox" /> <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/grafana.svg" height="40" alt="logo Grafana" /> <img width="12" />
 </div>
 
