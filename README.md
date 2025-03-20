@@ -1,8 +1,12 @@
-                                            __        ___                                     _     _             
-                                            \ \      / (_) ___ _ __ __ _ _ __ ___   __ _  ___| |__ (_)_ __   ___  
-                                             \ \ /\ / /| |/ __| '__/ _` | '_ ` _ \ / _` |/ __| '_ \| | '_ \ / _ \ 
-                                              \ V  V / | | (__| | | (_| | | | | | | (_| | (__| | | | | | | |  __/ 
-                                               \_/\_/  |_|\___|_|  \__,_|_| |_| |_|\__,_|\___|_| |_|_|_| |_|\___| 
+ ____                 _                                               
+/ ___|  ___ _ __ __ _(_) ___                                          
+\___ \ / _ \ '__/ _` | |/ _ \                                         
+ ___) |  __/ | | (_| | | (_) |                                        
+|____/ \___|_|  \__, |_|\___/                     _     _             
+\ \      / (_) _|___/__ __ _ _ __ ___   __ _  ___| |__ (_)_ __   ___  
+ \ \ /\ / /| |/ __| '__/ _` | '_ ` _ \ / _` |/ __| '_ \| | '_ \ / _ \ 
+  \ V  V / | | (__| | | (_| | | | | | | (_| | (__| | | | | | | |  __/ 
+   \_/\_/  |_|\___|_|  \__,_|_| |_| |_|\__,_|\___|_| |_|_|_| |_|\___| 
 
 Je m'appelle **Wicramachine**, mais on m'appelle surtout **Wicra**. Passionné par le développement, je suis actuellement étudiant en deuxième année de BTS CIEL IR, un cursus qui nourrit mon engouement pour le code et l'innovation technologique. Toujours avide de nouveaux défis, je me prépare à intégrer une troisième année de [Bachelor en Développement Fullstack & DevOps](https://ecole-ipssi.com/formations-informatique/bachelor-informatique/bachelor-developpement-fullstack-et-devops/) en alternance. Dans cette perspective, je suis activement à la recherche d'une entreprise prête à m'offrir l'opportunité de débuter ma vie professionnelle et de mettre en pratique mes compétences.
 
