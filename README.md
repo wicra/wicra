@@ -10,9 +10,9 @@
 
 Je m'appelle **Wicramachine**, mais on m'appelle surtout **Wicra**. Passionné par le développement, je suis actuellement étudiant en deuxième année de BTS CIEL IR, un cursus qui nourrit mon engouement pour le code et l'innovation technologique. Toujours avide de nouveaux défis, je me prépare à intégrer une troisième année de [Bachelor en Développement Fullstack & DevOps](https://ecole-ipssi.com/formations-informatique/bachelor-informatique/bachelor-developpement-fullstack-et-devops/) en alternance. Dans cette perspective, je suis activement à la recherche d'une entreprise prête à m'offrir l'opportunité de débuter ma vie professionnelle et de mettre en pratique mes compétences.
 
-Vous pouvez en apprendre davantage sur mon parcours et mes projets en consultant mes réseaux professionnels :
+**Contact :**
 
-<p align="left">
+<div align="justify">
   <a href="https://www.linkedin.com/in/wicramachine/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />   
   </a>
@@ -24,9 +24,7 @@ Vous pouvez en apprendre davantage sur mon parcours et mes projets en consultant
   <a href="mailto:wicramachine@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />   
   </a>
-</p>
-
-N'hésitez pas à explorer la section dédiée à mes projets pour découvrir mes réalisations détaillées en markdown. Bon visionnage !
+</div>
 
 ### Languages and Tools:
 
@@ -63,6 +61,6 @@ N'hésitez pas à explorer la section dédiée à mes projets pour découvrir me
 ### My GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wicra&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=calm&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wicra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=calm&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wicra&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wicra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=ambient_gradient&hide_border=false" height="150" alt="languages graph" />
 </div>
