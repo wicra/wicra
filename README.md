@@ -32,7 +32,9 @@ N'hésitez pas à explorer la section dédiée à mes projets pour découvrir me
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,nodejs,linux,bash,arduino,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,py,raspberrypi,vscode,grafana,flutter,cpp,c" />
+           
   </a>
 </p>
 
