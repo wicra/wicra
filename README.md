@@ -12,7 +12,7 @@ Je m'appelle **Wicramachine**, mais on m'appelle surtout **Wicra**. Passionné p
 
 Vous pouvez en apprendre davantage sur mon parcours et mes projets en consultant mes réseaux professionnels :
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/wicramachine/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />   
   </a>
