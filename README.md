@@ -30,6 +30,12 @@ N'hésitez pas à explorer la section dédiée à mes projets pour découvrir me
 
 ### Languages and Tools:
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  </a>
+</p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="logo C++" /> <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="logo Python" /> <img width="12" />
