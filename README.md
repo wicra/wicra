@@ -12,17 +12,17 @@ Je m'appelle **Wicramachine**, mais on m'appelle surtout **Wicra**. Passionné p
 
 Vous pouvez en apprendre davantage sur mon parcours et mes projets en consultant mes réseaux professionnels :
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/wicramachine/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />   
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://wicramachine.netlify.app" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/6570/6570794.png" width="30" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />   
   </a>
-  &nbsp;&nbsp;
+
   <a href="mailto:wicramachine@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" />   
   </a>
 </p>
 
@@ -36,13 +36,6 @@ N'hésitez pas à explorer la section dédiée à mes projets pour découvrir me
     <img src="https://skillicons.dev/icons?i=html,css,php,js,mysql,py,raspberrypi,vscode,grafana,flutter,dart,cpp,c" />    
   </a>
 </p>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="logo Next.js" /> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="logo React" /> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="logo Apache" /> <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" alt="logo Netlify" /> <img width="12" />
-</div>
 
 ### Future Languages and Tools:
 <p align="center">
